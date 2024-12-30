@@ -1,2 +1,2 @@
-# singleton
-Estudo sobre o modelo de criação singleton em java "puro"
+# singleton, strategy e facade
+Estudo sobre singleton, strategy e facade em java "puro"
